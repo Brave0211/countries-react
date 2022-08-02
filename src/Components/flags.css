@@ -1,0 +1,36 @@
+.list__item {
+   box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.0294384);
+   border-radius: 5px;
+   background-color: #fff;
+   margin-bottom: 67px;
+}
+
+.content {
+   padding: 24px;
+}
+
+.content__title {
+   padding: 0;
+   margin: 0;
+   margin-bottom: 16px;
+   font-family: 'Nunito Sans';
+   font-weight: 800;
+   font-size: 18px;
+   line-height: 26px;
+   color: #111517;
+}
+
+.content__text {
+   padding: 0;
+   margin: 0;
+   margin-bottom: 8px;
+   font-family: 'Nunito Sans';
+   font-weight: 600;
+   font-size: 14px;
+   line-height: 16px;
+   color: #5e6163;
+}
+
+.content__text-bold {
+   color: #111517;
+}
